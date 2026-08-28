@@ -162,3 +162,14 @@ This reflects a broader principle: **what you're buying usually matters more tha
 ---
 
 *This course teaches practical machine learning: data cleaning, exploratory analysis, model selection, and interpretation. By the end, you'll have built, compared, and understood multiple approaches to the same problem.*
+---
+
+## Contact
+
+<div align="center">
+  <img src="images/thumbnails/ehcastroh_teach_banner_flower.png" alt="ehcastroh" width="90" style="border-radius: 50%;" />
+
+  <sub>ehcastroh</sub>
+
+  <a href="https://github.com/ehcastroh">GitHub</a> · <a href="https://www.linkedin.com/in/ehcastroh/">LinkedIn</a>
+</div>
